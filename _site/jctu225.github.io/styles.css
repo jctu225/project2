@@ -1,0 +1,48 @@
+body {
+  background: -webkit-linear-gradient(#FFC300, #FF5733);
+  overflow: auto;
+  float: center;
+}
+h4 {
+  text-align: center;
+  font-family: 'Raleway';
+  font-size: 24px;
+}
+.image{
+  text-align: center;
+}
+.portrait {
+  position: center;
+  background-image: url(https://raw.githubusercontent.com/jctu225/project2/master/Pocket_uni.jpg);
+  background-size: fill;
+  background-repeat: no-repeat;
+  /*background: linear-gradient(to right, white ,black); */
+  margin: 10px 10px 0px 0px;
+  width: 95%;
+  padding-top: 10px;
+  padding-left: 55px;
+  padding-bottom: 0px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+.profileLinks{
+  text-align: center;
+}
+.paragraph {
+  font-family: 'Raleway';
+  font-size: 20px;
+  background-image: url(https://raw.githubusercontent.com/jctu225/project2/master/Unbuntu.png);
+  padding-right: 100px;
+  padding-left: 100px;
+  background-size: 300px 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 80px;
+}
+
+
+/*image links for mouse over: git: https://www.iconfinder.com/icons/1298743/github_icon#size=128 
+//facebook: https://cdn3.iconfinder.com/data/icons/material-design-social-icons/152/facebook_icon-128.png 
+//Linkdin: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png 
+//stackexchange: https://cdn2.iconfinder.com/data/icons/social-media-icons-2/83/stackexchange_alt_64x83.png
